@@ -1,5 +1,7 @@
 # **MLOps Roadmap 2025: Build Production-Ready AI Systems**
 
+Here's the roadmap of MLOPs - https://whimsical.com/mlops-roadmap-2025-9hVyxpQHWBNGEXKP7AthdE
+
 This roadmap helps you **master MLOps** — the art of taking machine learning models from "working locally" to "**serving millions safely**."
 
 You'll learn everything from **pipelines**, **monitoring**, **drift detection**, **retraining**, **cloud MLOps**, **responsible AI**, and much more — **step-by-step**.
